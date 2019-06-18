@@ -1,0 +1,10 @@
+
+---
+layout: post
+title: "Python game added to repositories"
+date: 2019-06-18
+---
+
+I realised that I haven't uploaded anything Python to my GitHub yet so decided to fix that. 
+I've added a little number guessing game to my repositories. I wrote it during last week's codebar.
+The computer generates a number between 1 and 100 and the user has to guess which one. The user will get feedback after every go, whether or not their newest guess brought them closer to guessing correctly.
